@@ -6,7 +6,7 @@ Submitted by: **Your Name Here**
 click the change background button the background changes and when
 you click the change text button the text color of the labels changes.
 
-Time spent: **8** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
